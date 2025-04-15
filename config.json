@@ -1,0 +1,5 @@
+
+{
+  "TELEGRAM_BOT_TOKEN": "your-telegram-bot-token-here",
+  "GROUP_ID": "your-group-id-here"
+}

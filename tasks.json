@@ -1,0 +1,6 @@
+
+[
+  { "name": "Garbage Cleaning", "assignedTo": null, "type": "initiative" },
+  { "name": "Room Cleaning", "assignedTo": null, "type": "routine" },
+  { "name": "Water Refilling", "assignedTo": null, "type": "initiative" }
+]
